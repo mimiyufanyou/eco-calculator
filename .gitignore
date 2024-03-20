@@ -1,4 +1,6 @@
 # Ignore specific files
+another_test.ipynb 
+json_stringify.ipynb 
 
 # Ignore files in a specific directory
 eco-calc-gradio/
@@ -6,3 +8,4 @@ flagged/
 
 # Ignore files with a specific extension
 *.log
+
